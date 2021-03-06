@@ -1,0 +1,6 @@
+words = input('')
+a = input('')
+b = input('')
+c = input('')
+d = input('')
+print(words[int(a):(int(b) + 1)] + ' ' + words[int(c):(int(d) + 1)])

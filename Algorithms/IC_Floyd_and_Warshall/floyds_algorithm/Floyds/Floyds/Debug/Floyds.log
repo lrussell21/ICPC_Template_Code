@@ -1,0 +1,4 @@
+﻿  Floyds.cpp
+C:\Users\Levi\Desktop\Algorithms\IC_Floyd_and_Warshall\floyds_algorithm\Floyds\Floyds\Floyds.cpp(11,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Levi\Desktop\Algorithms\IC_Floyd_and_Warshall\floyds_algorithm\Floyds\Floyds\Floyds.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+  Floyds.vcxproj -> C:\Users\Levi\Desktop\Algorithms\IC_Floyd_and_Warshall\floyds_algorithm\Floyds\Debug\Floyds.exe
